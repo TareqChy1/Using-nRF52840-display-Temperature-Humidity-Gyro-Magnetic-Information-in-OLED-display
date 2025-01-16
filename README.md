@@ -3,7 +3,7 @@ Small project that integrate the different sensors and actuators of the Adafruit
 
 # GROUP 8
 - [TAREQ MD RABIUL HOSSAIN CHY](https://www.linkedin.com/in/tareqmdrabiulhossainchy/)
-- [NUSHRAT JAHAN](https://www.linkedin.com/in/nushrat-jahan-3275a9178/)
+
 
 
 # Project Description
